@@ -53,7 +53,7 @@ Les mentions légales et les informations relatives aux cookies sont disponibles
 
 - E-mail : [contact@elie-dev.fr](mailto:contact@elie-dev.fr)
 - Site : [elie-dev.fr](https://elie-dev.fr)
-- GitHub : [@Elicopter78](https://github.com/UncodingShrimp)
+- GitHub : [@UncodingShrimp](https://github.com/UncodingShrimp)
 
 ## Licence
 
