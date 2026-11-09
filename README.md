@@ -15,6 +15,8 @@ Site web responsive qui affiche le compte à rebours jusqu'au prochain Nouvel An
 ## Installation
 
 ```bash
+git clone https://github.com/Elicopter78/DecompteNouvelAn.git
+cd DecompteNouvelAn
 npm install
 cp .env.example .env
 ```
