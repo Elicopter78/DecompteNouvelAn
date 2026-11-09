@@ -15,7 +15,7 @@ Site web responsive qui affiche le compte à rebours jusqu'au prochain Nouvel An
 ## Installation
 
 ```bash
-git clone https://github.com/Elicopter78/DecompteNouvelAn.git
+git clone https://github.com/UncodingShrimp/DecompteNouvelAn.git
 cd DecompteNouvelAn
 npm install
 cp .env.example .env
@@ -53,7 +53,7 @@ Les mentions légales et les informations relatives aux cookies sont disponibles
 
 - E-mail : [contact@elie-dev.fr](mailto:contact@elie-dev.fr)
 - Site : [elie-dev.fr](https://elie-dev.fr)
-- GitHub : [@Elicopter78](https://github.com/Elicopter78)
+- GitHub : [@Elicopter78](https://github.com/UncodingShrimp)
 
 ## Licence
 
